@@ -6,7 +6,7 @@ Please see report.pdf
 The ML model doesn't really work, but it was fun to work on.
 The math model seems to be working
 
-## To run the math project
+## To run the project
 #### all *.csv and *.py files under the  `/math_model` folder need to be downloaded and saved in the same directory
 
 change the starting month at line 203 in analyze.py to preferred date
