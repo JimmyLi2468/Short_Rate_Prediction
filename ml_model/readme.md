@@ -9,4 +9,4 @@ I will update it if any future analysis is done
 ## to run the project
 `python predict.py`
 
-a graph of prediction with some previous groundtruth interest rates will appear
+a graph of predictions and some previous groundtruth interest rates will appear
